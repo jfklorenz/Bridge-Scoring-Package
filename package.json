@@ -1,0 +1,31 @@
+{
+  "name": "bridge-scoring",
+  "version": "0.0.0",
+  "description": "Bridge Score, IMPs, Matchpoints and Victory Poins.",
+  "main": "index.js",
+  "repository": "https://github.com/jfklorenz/Bridge-Scoring.git",
+  "author": "Julian Lorenz",
+  "contributors": [],
+  "keywords": [
+    "Bridge",
+    "Contract Bridge",
+    "Bridge Scoring",
+    "Bridge Score",
+    "Matchpoints",
+    "IMPs",
+    "Victory Points"
+  ],
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "test": "^0.6.0",
+    "yarn": "^1.17.3"
+  }
+}
