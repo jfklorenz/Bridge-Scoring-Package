@@ -1,6 +1,7 @@
 # Bridge-Scoring
 
-![Status](https://img.shields.io/badge/status-release-green) [![NPM](https://nodei.co/npm/bridge-scoring.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/bridge-scoring/) ![GitHub top language](https://img.shields.io/github/languages/top/jfklorenz/bridge-scoring) ![npm](https://img.shields.io/npm/v/bridge-scoring) ![npm](https://img.shields.io/npm/dm/bridge-scoring) ![NPM](https://img.shields.io/npm/l/bridge-scoring)
+[![NPM](https://nodei.co/npm/bridge-scoring.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/bridge-scoring/) 
+![Status](https://img.shields.io/badge/status-release-green) ![GitHub top language](https://img.shields.io/github/languages/top/jfklorenz/bridge-scoring) ![npm](https://img.shields.io/npm/v/bridge-scoring) ![npm](https://img.shields.io/npm/dm/bridge-scoring) ![NPM](https://img.shields.io/npm/l/bridge-scoring)
 
 This *Javascript* package is designed to score every possible outcome of a *Contract Bridge* game.
 
