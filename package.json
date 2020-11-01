@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Bridge Score, IMPs, Matchpoints and Victory Poins.",
   "main": "index.js",
-  "repository": "https://github.com/jfklorenz/Bridge-Scoring.git",
+  "repository": "https://github.com/jfklorenz/Bridge-Scoring-Package.git",
   "author": "Julian Lorenz",
   "contributors": [],
   "keywords": [
